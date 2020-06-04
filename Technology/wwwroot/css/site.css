@@ -161,7 +161,7 @@ h1 {
 
 .block {
     position: absolute;
-    margin-top: 200px;
+    margin-top: 60px;
     left: 50%;
    
     margin-left: -400px;
@@ -183,7 +183,7 @@ h1 {
 .block2 {
     position: absolute;
     left: 50%;
-    margin-top: 200px;
+    margin-top: 60px;
     margin-left: 15px;
     background: #ffffff;
     border-radius: 10px;
@@ -201,7 +201,7 @@ h1 {
 .block3 {
     position: absolute;
     left: 50%;
-    top: 270px;
+    top: 130px;
     margin-left: -400px;
     background: #ffffff;
     border-radius: 10px;
